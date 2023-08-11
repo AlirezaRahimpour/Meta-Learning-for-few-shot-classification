@@ -18,8 +18,6 @@ Paper: [Class-Discriminative Feature Embedding For Meta-Learning based Few-Shot 
 
 <img width="424" alt="image" src="https://github.com/AlirezaRahimpour/Meta-Learning-for-few-shot-classification/assets/18356361/80069dc7-3f7e-4bae-8bb8-9a998bb8ac4f">
 
-<img width="854" alt="image" src="https://github.com/AlirezaRahimpour/Meta-Learning-for-few-shot-classification/assets/18356361/4c03f85e-6791-45df-b8ab-5276baae74ba">
-
 The main contributions of this work are summarized as follows:
 • Regularizing the few-shot classification setting with a
 structured-based margin loss which takes into account
@@ -34,6 +32,8 @@ which would help the meta-learner to learn a distribution over tasks more effect
 • Performing extensive experiments based on few-shot, one-shot, zero-shot, and semi-supervised learning
 schemes to show the advantages of the proposed model
 compared to the state-of-the-art.
+
+<img width="854" alt="image" src="https://github.com/AlirezaRahimpour/Meta-Learning-for-few-shot-classification/assets/18356361/4c03f85e-6791-45df-b8ab-5276baae74ba">
 
 More details coming soon! :) 
 
