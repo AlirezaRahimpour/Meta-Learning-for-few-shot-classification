@@ -18,18 +18,21 @@ Paper: [Class-Discriminative Feature Embedding For Meta-Learning based Few-Shot 
 
 <img width="424" alt="image" src="https://github.com/AlirezaRahimpour/Meta-Learning-for-few-shot-classification/assets/18356361/80069dc7-3f7e-4bae-8bb8-9a998bb8ac4f">
 
-The main contributions of this work are summarized as follows:
-• Regularizing the few-shot classification setting with a
+The main contributions of this work are as follows:
+
+-  Regularizing the few-shot classification setting with a
 structured-based margin loss which takes into account
 the global structure of the support set feature space and
 learns to explicitly reduce the intra-class variation in
 order to map the data to a highly discriminative feature
 space where the few-shot classification is most effective.
-• Proposing a context-aware query embedding module
+
+- Proposing a context-aware query embedding module
 which takes into account the support set’s context
 and generates task-dependent feature representations
 which would help the meta-learner to learn a distribution over tasks more effectively.
-• Performing extensive experiments based on few-shot, one-shot, zero-shot, and semi-supervised learning
+
+-  Performing extensive experiments based on few-shot, one-shot, zero-shot, and semi-supervised learning
 schemes to show the advantages of the proposed model
 compared to the state-of-the-art.
 
