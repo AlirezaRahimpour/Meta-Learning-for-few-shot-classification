@@ -1,5 +1,4 @@
-# Meta-Learning-for-few-shot-classification
-WACV2020: Class-Discriminative Feature Embedding For Meta-Learning based Few-Shot Classification
+# WACV2020: Class-Discriminative Feature Embedding For Meta-Learning based Few-Shot Classification
 
 Although deep learning-based approaches have been very effective in solving problems with plenty of labeled
 data, they suffer in tackling problems for which labeled data
