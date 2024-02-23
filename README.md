@@ -7,7 +7,7 @@ train a classifier from only a handful of labeled examples
 in a support set. In this paper, we propose a few-shot learning framework based on structured margin loss which takes
 into account the global structure of the support set in order to generate a highly discriminative feature space where
 the features from distinct classes are well separated in clusters. Moreover, in our meta-learning-based framework, we
-propose a context-aware query embedding encoder for incorporating support set context into query embedding and
+propose an attention-based context-aware query embedding encoder for incorporating support set context into query embedding and
 generating more discriminative and task-dependent query
 embeddings. The task-dependent features help the meta learner to learn a distribution over tasks more effectively.
 Extensive experiments based on few-shot, zero-shot, and
@@ -26,7 +26,7 @@ learns to explicitly reduce the intra-class variation in
 order to map the data to a highly discriminative feature
 space where the few-shot classification is most effective.
 
-- Proposing a context-aware query embedding module
+- Proposing a new attention-based context-aware query embedding module
 which takes into account the support set’s context
 and generates task-dependent feature representations
 which would help the meta-learner to learn a distribution over tasks more effectively.
